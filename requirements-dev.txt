@@ -1,0 +1,13 @@
+# Development dependencies for calcutils-fanny
+
+# build: Official PyPA tool for building Python packages (PEP 517/518)
+# Used to create source distributions and wheels
+build>=0.8.0
+
+# twine: Tool for uploading Python packages to PyPI/TestPyPI
+# Handles authentication and secure uploads
+twine>=4.0.0
+
+# pytest: Testing framework for writing and running unit tests
+# Used to verify our package functions work correctly
+pytest>=7.0.0

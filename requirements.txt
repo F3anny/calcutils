@@ -1,0 +1,4 @@
+# Runtime dependencies for calcutils-fanny
+# This package uses only Python standard library functions
+# (arithmetic operations, len(), sum(), etc.) so no external
+# dependencies are required.
